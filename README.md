@@ -18,10 +18,12 @@ Broadly speaking, we see that returns in 2018 are down across the board, even as
 In our coding of the analysis we refactored our initial algorithm to only pass through the stock data one time. Below are the runtimes of each version, with the refactored runtimes second.
 
 - 2017: 
+
 ![](https://raw.githubusercontent.com/SecretDoves3000/stock-analysis/main/Resources/VBA_Challenge_2017_unfactored.PNG) 
 ![](https://raw.githubusercontent.com/SecretDoves3000/stock-analysis/main/Resources/VBA_Challenge_2017.PNG)
 
 - 2018: 
+
 ![](https://raw.githubusercontent.com/SecretDoves3000/stock-analysis/main/Resources/VBA_Challenge_2018_unfactored.PNG) 
 ![](https://raw.githubusercontent.com/SecretDoves3000/stock-analysis/main/Resources/VBA_Challenge_2018.PNG)
 
